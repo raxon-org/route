@@ -1,2 +1,2 @@
 {{R3M}}
-{{Package.Raxon.Org.Route:Init:register()}}
+{{Package.Raxon.Route:Init:register()}}
