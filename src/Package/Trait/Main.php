@@ -1,9 +1,9 @@
 <?php
-namespace Package\Raxon\Org\Route\Trait;
+namespace Package\Raxon\Route\Trait;
 
-use Raxon\Org\Module\Core;
+use Raxon\Module\Core;
 
-use Raxon\Org\Exception\ObjectException;
+use Raxon\Exception\ObjectException;
 
 trait Main {
 
